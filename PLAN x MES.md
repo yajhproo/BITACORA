@@ -7,7 +7,7 @@ Aprender a reconocer y aplicar estilos de diseño web, entendiendo las decisione
 ## Plan del mes
 
 - [X] Jue 3 — Leer el plan completo y escoger los 5 estilos de diseño.
-- [ ] Vie 4 — Investigar los 5 estilos y tomar notas de sus reglas principales.
+- [X] Vie 4 — Investigar los 5 estilos y tomar notas de sus reglas principales.
 - [ ] Sab 5 — Crear la estructura de la página que explica los estilos.
 - [ ] Dom 6 — Terminar contenido y primera versión visual de la página de estilos.
 
